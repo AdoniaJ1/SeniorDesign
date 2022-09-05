@@ -12,7 +12,7 @@ Computer Graphics Web/ Mobile App
 ## Professional Bios
 1. Adonia Jebessa
 
-2.
+2. Mingjia Zeng
 
 3.
 
