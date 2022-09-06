@@ -50,7 +50,7 @@ I want to develop a multi-platorm Flutter app that interfaces with some IOT devi
 
 ## Mingjia Zeng
 
-
+----
 
 ## Nicholas Bowling
 ### Contact Information:
@@ -89,6 +89,8 @@ Skills:
 
 ### Project Sought
 I would ideally like to work on a project relating to Computer Graphics.  This kind of project would involve the application of complex algorithms to create a visual output.  One potential project along these lines would be creating a raytracer.  This program simulates the movement of light as it is put out by a source and bounces around the environment before finally colliding with a virtual camera.  In this case, the main algorithms involved in this project would be based around real-world physics.
+
+----
 
 ## Sam Diener
 ### Contact Information:  
