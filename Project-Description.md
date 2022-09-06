@@ -48,9 +48,9 @@ I want to develop a multi-platorm Flutter app that interfaces with some IOT devi
  
  
 
-2. Mingjia Zeng
+## Mingjia Zeng
 
-3. Nicholas Bowling
+
 
 ## Nicholas Bowling
 ### Contact Information:
