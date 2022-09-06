@@ -7,6 +7,7 @@ Computer Graphics Web/ Mobile App
 - Adonia Jebessa , CS, jebessah@mail.uc.edu
 - Mingjia Zeng , CS, zengma@mail.uc.edu
 - Nicholas Bowling , CS, bowlinnr@mail.uc.edu
+- Sam Diener, CS , dienersh@mail.uc.edu
 
 # Professional Biographies
 
