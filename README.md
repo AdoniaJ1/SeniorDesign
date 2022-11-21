@@ -3,7 +3,7 @@
 2.  [Project Description](https://github.com/AdoniaJ1/SeniorDesign/blob/de41519e27a5b042ac4dce2e2356ad2471394cf0/Project%20Description)
 3.  User Stories and Design Diagrams
     -   [User Stories](https://github.com/AdoniaJ1/SeniorDesign/blob/867566ec424354404a7e263e3c99d97ccd07f035/User%20Stories%20and%20Design%20Diagrams/User%20Stories)
-    -   [Design Diagrams](https://github.com/AdoniaJ1/SeniorDesign/blob/867566ec424354404a7e263e3c99d97ccd07f035/User%20Stories%20and%20Design%20Diagrams/Design%20Diagrams)
+    -   [Design Diagrams](https://github.com/AdoniaJ1/SeniorDesign/blob/ca22f8904a1dd8bff76d37fff3db3bbd5a247487/User%20Stories%20and%20Design%20Diagrams/Design_Diagram.jpg)
 4.  Project Tasks and Timeline
     -   [Task List](https://github.com/AdoniaJ1/SeniorDesign/blob/867566ec424354404a7e263e3c99d97ccd07f035/Project%20Tasks%20and%20Timeline/Task%20List)
     -   [Timeline](https://github.com/AdoniaJ1/SeniorDesign/blob/867566ec424354404a7e263e3c99d97ccd07f035/Project%20Tasks%20and%20Timeline/Timeline)
