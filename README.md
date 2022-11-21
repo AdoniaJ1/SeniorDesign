@@ -10,8 +10,8 @@ Sam(https://github.com/AdoniaJ1/SeniorDesign/blob/de41519e27a5b042ac4dce2e2356ad
     -   [Timeline](https://github.com/AdoniaJ1/SeniorDesign/blob/867566ec424354404a7e263e3c99d97ccd07f035/Project%20Tasks%20and%20Timeline/Timeline)
     -   [Effort Matrix](https://github.com/AdoniaJ1/SeniorDesign/blob/867566ec424354404a7e263e3c99d97ccd07f035/Project%20Tasks%20and%20Timeline/Effort%20Matrix)
 6.  [PPT Slideshow](https://github.com/AdoniaJ1/SeniorDesign/blob/867566ec424354404a7e263e3c99d97ccd07f035/Final%20Presentation.pptx)
-7.  [Self-Assessment Essays](https://github.com/AdoniaJ1/SeniorDesign/blob/867566ec424354404a7e263e3c99d97ccd07f035/Self-Assesment%20Essays)
-8.  [Professional Biographies](https://github.com/AdoniaJ1/SeniorDesign/blob/867566ec424354404a7e263e3c99d97ccd07f035/Professional%20Biographies)
+7. Sam [Self-Assessment Essays](https://github.com/AdoniaJ1/SeniorDesign/blob/867566ec424354404a7e263e3c99d97ccd07f035/Self-Assesment%20Essays)
+8. Adonia [Professional Biographies](https://github.com/AdoniaJ1/SeniorDesign/blob/867566ec424354404a7e263e3c99d97ccd07f035/Professional%20Biographies)
 9.  [Budget]Ming (https://github.com/AdoniaJ1/SeniorDesign/blob/867566ec424354404a7e263e3c99d97ccd07f035/Budget)
 10.  [Appendix]Ming (https://github.com/AdoniaJ1/SeniorDesign/blob/867566ec424354404a7e263e3c99d97ccd07f035/Appendix)
  
