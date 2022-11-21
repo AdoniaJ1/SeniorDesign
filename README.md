@@ -1,5 +1,5 @@
 # Table of Contents
-1.  [Team Names and Project Abstract]
+1. [Team Names and Project Abstract]
 Sam(https://github.com/AdoniaJ1/SeniorDesign/blob/de41519e27a5b042ac4dce2e2356ad2471394cf0/Team%20Names%20and%20Project%20Abstract) 
 3.  Sam [Project Description](https://github.com/AdoniaJ1/SeniorDesign/blob/de41519e27a5b042ac4dce2e2356ad2471394cf0/Project%20Description)
 4.  User Stories and Design Diagrams
