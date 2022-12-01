@@ -1,7 +1,7 @@
-# TeamNAME
+# VCreate
 
 ## Topic Area
-Computer Graphics Web/ Mobile App
+VR Sandbox for Intuitive 3D Design
 
 ## Team Members
 - Adonia Jebessa , CS, jebessah@mail.uc.edu
