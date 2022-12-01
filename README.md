@@ -12,5 +12,5 @@
 7. Sam [Self-Assessment Essays](https://github.com/AdoniaJ1/SeniorDesign/blob/867566ec424354404a7e263e3c99d97ccd07f035/Self-Assesment%20Essays)
 8. Adonia [Professional Biographies](https://github.com/AdoniaJ1/SeniorDesign/blob/867566ec424354404a7e263e3c99d97ccd07f035/Professional%20Biographies)
 9.  [Budget](https://github.com/AdoniaJ1/SeniorDesign/blob/main/Budget.md)
-10.  [Appendix]Ming (https://github.com/AdoniaJ1/SeniorDesign/blob/867566ec424354404a7e263e3c99d97ccd07f035/Appendix)
+10. [Appendix](https://github.com/AdoniaJ1/SeniorDesign/blob/main/Appendix.md)
  
