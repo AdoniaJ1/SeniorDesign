@@ -10,7 +10,7 @@
     -   [Effort Matrix](https://github.com/AdoniaJ1/SeniorDesign/blob/867566ec424354404a7e263e3c99d97ccd07f035/Project%20Tasks%20and%20Timeline/Effort%20Matrix)
 6.  [PPT Slideshow](https://github.com/AdoniaJ1/SeniorDesign/blob/867566ec424354404a7e263e3c99d97ccd07f035/Final%20Presentation.pptx)
 7. [Self-Assessment Essays](https://github.com/AdoniaJ1/SeniorDesign/blob/main/SelfAssessmentEssays.md)
-8. Adonia [Professional Biographies](https://github.com/AdoniaJ1/SeniorDesign/blob/867566ec424354404a7e263e3c99d97ccd07f035/Professional%20Biographies)
+8. [Professional Biographies](https://github.com/AdoniaJ1/SeniorDesign/blob/867566ec424354404a7e263e3c99d97ccd07f035/Professional%20Biographies)
 9.  [Budget](https://github.com/AdoniaJ1/SeniorDesign/blob/main/Budget.md)
 10. [Appendix](https://github.com/AdoniaJ1/SeniorDesign/blob/main/Appendix.md)
  
