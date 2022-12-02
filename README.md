@@ -7,7 +7,7 @@
 5.  Nick Project Tasks and Timeline
     -   [Task List](https://github.com/AdoniaJ1/SeniorDesign/blob/main/Project%20Tasks%20and%20Timeline/TaskList.md)
     -   [Timeline](https://github.com/AdoniaJ1/SeniorDesign/blob/867566ec424354404a7e263e3c99d97ccd07f035/Project%20Tasks%20and%20Timeline/Timeline)
-    -   [Effort Matrix](https://github.com/AdoniaJ1/SeniorDesign/blob/867566ec424354404a7e263e3c99d97ccd07f035/Project%20Tasks%20and%20Timeline/Effort%20Matrix)
+    -   [Effort Matrix](https://github.com/AdoniaJ1/SeniorDesign/blob/main/Project%20Tasks%20and%20Timeline/Effort%20Matrix)
 6.  [PPT Slideshow](https://github.com/AdoniaJ1/SeniorDesign/blob/867566ec424354404a7e263e3c99d97ccd07f035/Final%20Presentation.pptx)
 7. [Self-Assessment Essays](https://github.com/AdoniaJ1/SeniorDesign/blob/main/SelfAssessmentEssays.md)
 8. [Professional Biographies](https://github.com/AdoniaJ1/SeniorDesign/blob/61bed03c8e2416fda2d3a909e5a754694130e053/ProfessionalBiographies.md)
