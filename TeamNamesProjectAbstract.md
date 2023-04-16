@@ -1,8 +1,8 @@
-# VCreate
+# Visual Reality
 ## Team Members
 - Adonia Jebessa , CS, jebessah@mail.uc.edu
 - Mingjia Zeng , CS, zengma@mail.uc.edu
 - Nicholas Bowling , CS, bowlinnr@mail.uc.edu
 - Sam Diener, CS , dienersh@mail.uc.edu
 ## Project Abstract
-The idea behind this project is to create a VR sandbox for the intuitive design of 3D environments. So, we are looking to provide 3D animators, video game developers, and average consumers with the ability to play with, create, and edit 3D models and environments, all in an intuitive VR setting. We feel that the ability to create and extrude custom, “blocks” to build with  opens up infinite possibilities.  Implementing adjustable player and object scaling only increases the creative options. From being a fly on the wall, to a monster towering over a city, VR experiences and environments can be easily created and shared. There is so much that is possible, even with already existing limited tool sets.  This can be seen through wonderful communities like Minecraft,  where people enjoy collaborating actively.
+Our VR-based project is a user-friendly 3D modelling sandbox that simplifies the intricate controls of traditional desktop 3D modeling software, enabling anyone to create personalized 3D objects. With the added advantage of viewing models in VR, game developers can better gauge the scale and dimension of objects intended for VR environments. This versatile tool caters to both novice learners and casual users, offering an immersive and exclusive experience
