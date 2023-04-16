@@ -4,7 +4,7 @@
 4.  User Stories and Design Diagrams
     -   [User Stories](https://github.com/AdoniaJ1/SeniorDesign/blob/5d79fbde693b548e7f61111a00a334db558abb3e/User%20Stories%20and%20Design%20Diagrams/User%20Stories)
     -   [Design Diagrams](https://github.com/AdoniaJ1/SeniorDesign/blob/ca22f8904a1dd8bff76d37fff3db3bbd5a247487/User%20Stories%20and%20Design%20Diagrams/Design_Diagram.jpg)
-5.  Nick Project Tasks and Timeline
+5.  Project Tasks and Timeline
     -   [Task List](https://github.com/AdoniaJ1/SeniorDesign/blob/main/Project%20Tasks%20and%20Timeline/TaskList.md)
     -   [Timeline](https://github.com/AdoniaJ1/SeniorDesign/blob/main/Project%20Tasks%20and%20Timeline/Timeline)
     -   [Effort Matrix](https://github.com/AdoniaJ1/SeniorDesign/blob/main/Project%20Tasks%20and%20Timeline/Effort%20Matrix)
