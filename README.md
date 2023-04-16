@@ -1,7 +1,7 @@
 # Table of Contents
 1. [Team Names and Project Abstract](https://github.com/AdoniaJ1/SeniorDesign/blob/main/TeamNamesProjectAbstract.md)
 2. [Project Description](https://github.com/AdoniaJ1/SeniorDesign/blob/ce46e4dcfc9eee2d063438bc35ad8bfcc9e35184/ProjectDescription.md)
-3.  User Manual & 
+3.  User Manual & UI Documentation
 4.  Test Plan & Results
 5.  Sprint Final PPT
 6.  Final Expo Poster
