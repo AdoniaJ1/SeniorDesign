@@ -6,5 +6,3 @@
 - Will be intuitive for beginners, and allow for masterpieces by experts
 
 - Replicate tools of 3D modeling software in VR
-
-- Users will be able to export their work for use in other areas
