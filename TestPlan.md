@@ -198,20 +198,20 @@
 - Functional: Game is executable, no observable sensory confusion, replicating follows behavior elicited.
 
 ### Physics Layers Test
--purpose of test: Ensure objects. Environments, and players are on different layers and interact as suspected in traditional physics. Player cannot move themself with objects
--description of test: use objects to try to interact with things
--Inputs: grabbing, aiming
--expected outputs/results: Shape will act as buttons say
--normal
--blackbox
--functional
--integration test
+- purpose of test: Ensure objects. Environments, and players are on different layers and interact as suspected in traditional physics. Player cannot move themself with objects
+- description of test: use objects to try to interact with things
+- Inputs: grabbing, aiming
+- expected outputs/results: Shape will act as buttons say
+- normal
+- blackbox
+- functional
+- integration test
 
 ### Build Test 4: Regular build tests to test pre-decided packaged features
--purpose of test: Ensure all tasks in this milestone are well integrated into the system.
--description of test: Run all tests in this milestone, look for abnormal behavior.
--inputs used for test: reference each test’s inputs.
--expected outputs/results: Game does not crash, no observable sensory confusion. Note tests for unexpected behavior.
--normal/abnormal/boundary case indication: Game is not executable, observable sensory confusion. Note individual tests for unexpected behavior.
--Blackbox indication: Game is executable, no observable sensory confusion.  Reference tests for unexpected behavior.
--Integration: Game is executable, no observable sensory confusion. Reference tests for unexpected behavior.
+- purpose of test: Ensure all tasks in this milestone are well integrated into the system.
+- description of test: Run all tests in this milestone, look for abnormal behavior.
+- inputs used for test: reference each test’s inputs.
+- expected outputs/results: Game does not crash, no observable sensory confusion. Note tests for unexpected behavior.
+- normal/abnormal/boundary case indication: Game is not executable, observable sensory confusion. Note individual tests for unexpected behavior.
+- Blackbox indication: Game is executable, no observable sensory confusion.  Reference tests for unexpected behavior.
+- Integration: Game is executable, no observable sensory confusion. Reference tests for unexpected behavior.
