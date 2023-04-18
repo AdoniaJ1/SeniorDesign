@@ -50,6 +50,28 @@ I want to develop a multi-platorm Flutter app that interfaces with some IOT devi
  
 
 ## Mingjia Zeng
+### Contact Information:  
+email: zengma@mail.uc.edu<br>
+phone: 513-3048505
+
+### Co-op Work Experience
+#### Cincinnati Insurance
+**Position:** Quality Assurance & Software Developer
+
+**Dates:** January - May 2020
+
+**Skills:**
+- JSON
+- selenium
+
+#### Divisional Maintainence Group
+**Position**: Software QA
+
+**Dates**: January - May 2022
+
+**Skills**: 
+- C#
+- PostMan
 
 ----
 
