@@ -4,8 +4,7 @@
 ## Integration tests
 ### Also, at designated time intervals we labeled as milestones, we will perform build tests to see if the new objectives are correctly added to the previous existing versions
 
-# Part II:
-## Tests
+# Part II:Tests
 ### Empty Sandbox Test
 - purpose of test: Ensure program is executable and ensure game is stable and environment is visually present in VR headset, perspective is maintained
 - description of test: Execute game on VR hardware and observe surroundings
