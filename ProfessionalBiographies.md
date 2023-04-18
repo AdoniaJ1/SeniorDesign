@@ -73,6 +73,8 @@ phone: 513-3048505
 - C#
 - PostMan
 
+### Project Sought
+I would want to work on game, I have never used Unity however I have some C# experience, I would like to build a game and learn how to use git cammands.
 ----
 
 ## Nicholas Bowling
