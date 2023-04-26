@@ -1,5 +1,9 @@
 # Appendix
 
+## Final Code Repository
+https://github.com/AdoniaJ1/VisualReality
+github commit history has extensive works history
+
 ## Useful Website References
 - https://www.danielkeefe.net/
 - https://www.youtube.com/watch?v=jRKdPVMDaEA&ab_channel=Sakku%27sMind
