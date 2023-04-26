@@ -8,5 +8,5 @@
 	-  [Initial Self-Assessment Essays](https://github.com/AdoniaJ1/SeniorDesign/blob/main/SelfAssessmentEssays.md)
 	- Final Self-Assessments
 7. Summary of Hours and Justification
-8.  Summary of Expenses
+8. [Summary of Expenses](https://github.com/AdoniaJ1/SeniorDesign/blob/main/Budget%20Spreadsheet.xlsx)
 9. [Appendix](https://github.com/AdoniaJ1/SeniorDesign/blob/main/Appendix.md)
