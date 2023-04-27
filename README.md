@@ -10,4 +10,5 @@
 7. [Initial Self-Assessment Essays](https://github.com/AdoniaJ1/SeniorDesign/blob/main/Report%20Documents/Assessments/SelfAssessmentEssays.md)
 8. [Final Self-Assessments](https://github.com/AdoniaJ1/SeniorDesign/blob/main/Report%20Documents/Assessments/FinalAssessments.md)
 9. [Summary of Hours and Justification](https://github.com/AdoniaJ1/SeniorDesign/blob/main/Report%20Documents/Assessments/Assessment%20of%20Hours.pdf)
+## Appendix
 10. [Appendix](https://github.com/AdoniaJ1/SeniorDesign/blob/main/Report%20Documents/Appendix.md)
