@@ -4,6 +4,12 @@
 https://github.com/AdoniaJ1/VisualReality
 github commit history has extensive works history
 
+## Helpful Tutorials
+
+ - Valem Unity VR Tutorials: https://www.youtube.com/watch?v=fM0k2n7u8sc&list=PLpEoiloH-4eP-OKItF8XNJ8y8e1asOJud&index=1
+ - Unity Instantiate Guide (Item Spawning): https://gamedevbeginner.com/how-to-spawn-an-object-in-unity-using-instantiate/
+
+
 ## Useful Website References
 - https://www.danielkeefe.net/
 - https://www.youtube.com/watch?v=jRKdPVMDaEA&ab_channel=Sakku%27sMind
