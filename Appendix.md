@@ -20,6 +20,10 @@ github commit history has extensive works history
 - Unity Support: https://support.unity.com/hc/en-us
 - OpenXR Homepage: https://www.khronos.org/openxr/
 
+## Special Thanks
+
+Special Thanks to Marc-Antoine Girard
+
 ## Team Work Effort Matrix (Fall 2022)
 
 
